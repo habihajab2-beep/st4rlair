@@ -1,0 +1,11 @@
+{
+  "name": "st4rlair",
+  "version": "1.0.0",
+  "description": "St4rlair gaming hub frontend",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^2.0.0"
+  }
+}
